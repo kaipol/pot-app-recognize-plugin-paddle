@@ -1,20 +1,5 @@
 # Pot-App Paddle OCR 插件 (基于 [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json))
 
-## 支持平台
-
-- [x] Windows
-  - [x] x64 [下载](https://gh.pylogmon.com/https://github.com/pot-app/pot-app-recognize-plugin-paddle/releases/latest/download/x86_64-pc-windows-msvc.zip)
-  - [ ] x86
-  - [ ] aarch64
-- [ ] Linux
-  - [ ] x64
-  - [ ] x86
-  - [ ] aarch64
-  - [ ] armv7
-- [ ] MacOS
-  - [ ] x64
-  - [ ] aarch64
-
 ## 使用方法
 
 1. 下载对应平台的插件，解压得到 `.potext` 文件
