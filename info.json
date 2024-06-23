@@ -1,5 +1,5 @@
 {
-  "id": "[plugin].com.pot-app.paddle",
+  "id": "plugin.com.pot-app.paddle",
   "plugin_type": "recognize",
   "icon": "paddle.png",
   "display": "Paddle OCR",
