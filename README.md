@@ -1,5 +1,8 @@
 # Pot-App Paddle OCR 插件 (基于 [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json))
 
+> [!WARNING]
+> 该插件仅支持 Windows x64
+
 ## 使用方法
 
 1. 下载对应平台的插件，解压得到 `.potext` 文件
